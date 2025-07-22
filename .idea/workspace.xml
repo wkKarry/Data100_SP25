@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d57262e-88a7-4ba3-b526-a4d42e55cd0d" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/hw/hw01/hw01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hw/hw01/hw01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab03/.OTTER_LOG" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab03/.OTTER_LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab03/lab03.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab03/lab03.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab07/lab07.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab07/lab07.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
       <workItem from="1751467152915" duration="213000" />
       <workItem from="1751531769461" duration="10000" />
       <workItem from="1752071552181" duration="2000" />
+      <workItem from="1753155600011" duration="14000" />
     </task>
     <servers />
   </component>
